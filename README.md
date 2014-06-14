@@ -1,4 +1,4 @@
-Code_Simplicity_The_Science_of_Development
+####Code_Simplicity_The_Science_of_Development 笔记备忘
 ==========================================
 
 ####1.1　计算机出了什么问题？
